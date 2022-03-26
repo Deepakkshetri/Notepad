@@ -1,0 +1,2 @@
+# Notepad
+we have created class JFrame and implementing Action Listener is created. JFrame is the main container for swing-based application. This example we have created "textArea","Menu","MenuBar"MenuItem.The TextArea is a area of text that user easily can write and we use JFileChooser.The JFileChooser provides a simple mechanism for the user to choose a file. For information about using  JFileChooser.and we have used append() method. The Appends the given text to the end of the document
